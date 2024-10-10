@@ -48,7 +48,7 @@ const App = () => {
   return (
     <SafeAreaView>
       <Pressable>
-        <Text style={{fontSize: 60, fontWeight: 'bold'}}>Hello World.</Text>
+        <Text style={{fontSize: 60, fontWeight: 'bold'}}>Hello World.1111</Text>
       </Pressable>
 
       <Image
